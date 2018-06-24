@@ -1,7 +1,7 @@
 # node-word-guess
 
 
-## Description
+##Description
 word guess game that uses node to prompt the user through the command line.
 
 
